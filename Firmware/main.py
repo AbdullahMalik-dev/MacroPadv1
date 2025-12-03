@@ -27,9 +27,10 @@ keyboard.matrix = KeysScanner(
 # Look here for keycodes: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md
 # And here for macros: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/macros.md
 keyboard.keymap = [
-    [KC.LEFT, KC.DOWN, KC.UP, KC.RIGHT,]
+    [KC.DELETE, KC.HOME, KC.END, KC.PSCREEN]
 ]
 
 # Start kmk!
 if __name__ == '__main__':
+
     keyboard.go()
