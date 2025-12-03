@@ -1,8 +1,4 @@
 # Abdullah's MacroPad
-Done your hackpad? Congrats! This is an example submission for a hackpad.
-![Abdullah-03-12-2025](https://github.com/user-attachments/assets/21300858-fc34-466f-8b79-2abc2fd9e564)  
-
-
 ### Inspiration
 
 I wanted to create this macropad because this project will be my first step into creatinv my first PCB and 3d model.
@@ -28,6 +24,7 @@ Others:
 Case Design            |  PCB         |   Schematics
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![image](images\design.png)    |  ![image](images\macropad.png)  | ![image](images\schematic.png)
+
 
 
 
