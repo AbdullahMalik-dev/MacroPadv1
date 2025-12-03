@@ -23,7 +23,8 @@ Others:
 
 Case Design            |  PCB         |   Schematics
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](images/design.png)    |  ![image](images\macropad.png)  | ![image](images\schematic.png)
+![image](images/design.png)    |  ![image](images/macropad.png)  | ![image](images/schematic.png)
+
 
 
 
